@@ -1,0 +1,77 @@
+
+body {
+  background-color: #F4F4F4;
+}
+
+.bg-white {
+  background-color: #FFFFFF; 
+}
+
+/* Tombol */
+.btn {
+  padding: 12px 24px; 
+  cursor: pointer;
+  font-size: 18px; 
+  font-weight: 600;
+  text-align: center;
+  border-radius: 8px; 
+  transition: background-color 0.3s ease; 
+}
+
+/* Tombol Kuning */
+.btn-yellow {
+  background-color: #E29A00; 
+}
+
+.btn-yellow:hover {
+  background-color: #5a3e00; 
+}
+
+/* Tombol Hijau */
+.btn-green {
+  background-color: #7EB782; 
+}
+
+.btn-green:hover {
+  background-color: #446c46; 
+}
+
+/* Tombol Merah */
+.btn-red {
+  background-color: #FF5573; 
+}
+
+.btn-red:hover {
+  background-color: #58222c; 
+}
+
+/* Tombol Biru */
+.btn-blue {
+  background-color: #3279AF; 
+}
+
+.btn-blue:hover {
+  background-color: #01345b; 
+}
+
+/* Tombol Beige */
+.btn-beige {
+  background-color: #CAC8B3; 
+  color: #FFFFFF; 
+}
+
+.btn-beige:hover {
+  background-color: #cdc896; 
+}
+
+.border-radius { 
+  border : 2px solid;
+  border-color : #CAC8B3 ;
+}
+/* Footer */
+footer {
+  position: relative; 
+  z-index: 20; 
+  text-align: center; 
+  padding: 15px 0; 
+}
